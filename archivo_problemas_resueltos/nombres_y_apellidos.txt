@@ -1,0 +1,32 @@
+Los datos son:
+
+Nombre: Juanjo
+Apellido: Bernuy
+--------
+Nombre: Gorka
+Apellido: Martin
+--------
+Nombre: Ane
+Apellido: Aguilar
+--------
+Nombre: Alex
+Apellido: Juaristi
+--------
+Nombre: Sofia
+Apellido: Ceballos
+--------
+Nombre: Juanjo
+Apellido: Bernuy
+--------
+Nombre: Gorka
+Apellido: Martin
+--------
+Nombre: Ane
+Apellido: Aguilar
+--------
+Nombre: Alex
+Apellido: Juaristi
+--------
+Nombre: Sofia
+Apellido: Ceballos
+--------
